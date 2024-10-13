@@ -1,0 +1,817 @@
+[
+[
+[
+[
+{
+    "name": "New WIAC Football Teams 2024",
+    "startingYear": 2024,
+    "startingMessage": "Welcome to the new and expanded WIAC for the 2024 football season!",
+    "adjustHsGradYears": true,
+    "conferences": [
+        {
+            "conferenceName": "New Wisconsin Intercollegiate Athletic Conference (WIAC)",
+            "teams": [
+                {
+                    "teamName": "University of Wisconsin-Whitewater",
+                    "location": "Whitewater, WI",
+                    "stadium": "Perkins Stadium",
+                    "headCoach": "Kevin Bullis",
+                    "conferenceTitles": 37
+                },
+                {
+                    "teamName": "University of Wisconsin-Oshkosh",
+                    "location": "Oshkosh, WI",
+                    "stadium": "J. J. Keller Field at Titan Stadium",
+                    "headCoach": "Peter Jennings",
+                    "conferenceTitles": 11
+                },
+                {
+                    "teamName": "University of Wisconsin-La Crosse",
+                    "location": "La Crosse, WI",
+                    "stadium": "Roger Harring Stadium",
+                    "headCoach": "Matt Janus",
+                    "conferenceTitles": 33
+                },
+                {
+                    "teamName": "University of Wisconsin-Platteville",
+                    "location": "Platteville, WI",
+                    "stadium": "Ralph E. Davis Pioneer Stadium",
+                    "headCoach": "Ryan Munz",
+                    "conferenceTitles": 3
+                },
+                {
+                    "teamName": "University of Wisconsin-Stevens Point",
+                    "location": "Stevens Point, WI",
+                    "stadium": "Goerke Field",
+                    "headCoach": "Greg Breitbach",
+                    "conferenceTitles": 13
+                },
+                {
+                    "teamName": "University of Wisconsin-Eau Claire",
+                    "location": "Eau Claire, WI",
+                    "stadium": "Carson Park",
+                    "headCoach": "Wes Beschorner",
+                    "conferenceTitles": 15
+                },
+                {
+                    "teamName": "University of Wisconsin-Stout",
+                    "location": "Menomonie, WI",
+                    "stadium": "Don and Nona Williams Stadium",
+                    "headCoach": "Clayt Birmingham",
+                    "conferenceTitles": 2
+                },
+                {
+                    "teamName": "University of Wisconsin-River Falls",
+                    "location": "River Falls, WI",
+                    "stadium": "Ramer Field",
+                    "headCoach": "Matt Walker",
+                    "conferenceTitles": 18
+                },
+                {
+                    "teamName": "Beloit College",
+                    "location": "Beloit, WI",
+                    "stadium": "Strong Stadium",
+                    "headCoach": "Ted Soenksen",
+                    "conferenceTitles": 2
+                },
+                {
+                    "teamName": "Carroll University",
+                    "location": "Waukesha, WI",
+                    "stadium": "Schneider Stadium",
+                    "headCoach": "Mark Krzykowski",
+                    "conferenceTitles": 9
+                },
+                {
+                    "teamName": "St. Norbert College",
+                    "location": "De Pere, WI",
+                    "stadium": "Donald J. Schneider Stadium",
+                    "headCoach": "Dan McCarty",
+                    "conferenceTitles": 17
+                },
+                {
+                    "teamName": "Ripon College",
+                    "location": "Ripon, WI",
+                    "stadium": "Ingalls Field",
+                    "headCoach": "Ron Ernst",
+                    "conferenceTitles": 31
+                },
+                {
+                    "teamName": "Northland College",
+                    "location": "Ashland, WI",
+                    "stadium": "Ponzio Stadium",
+                    "headCoach": "Chris Case",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Lakeland University",
+                    "location": "Plymouth, WI",
+                    "stadium": "Taylor Memorial Field",
+                    "headCoach": "Colin Bruton",
+                    "conferenceTitles": 6
+                },
+                {
+                    "teamName": "Marian University",
+                    "location": "Fond du Lac, WI",
+                    "stadium": "Smith Fields",
+                    "headCoach": "Mark Henninger",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Milwaukee School of Engineering (MSOE)",
+                    "location": "Milwaukee, WI",
+                    "stadium": "Viets Field",
+                    "headCoach": "Shane Mulrooney",
+                    "conferenceTitles": 0
+                }
+            ]
+        }
+    ],
+    "bowlGames": [
+        {
+            "bowlName": "Stagg Bowl",
+            "location": "Salem, VA",
+            "teams": [
+                {
+                    "team1": "University of Wisconsin-Whitewater",
+                    "team2": "Mount Union"
+                }
+            ],
+            "winner": "University of Wisconsin-Whitewater"
+        }
+    ],
+    "coachingStaffs": [
+        {
+            "teamName": "University of Wisconsin-Whitewater",
+            "headCoach": "Kevin Bullis",
+            "offensiveCoordinator": "Chris Klieman",
+            "defensiveCoordinator": "Rob Erickson",
+            "specialTeamsCoach": "Paul McGlynn"
+        },
+        {
+            "teamName": "University of Wisconsin-Oshkosh",
+            "headCoach": "Peter Jennings",
+            "offensiveCoordinator": "Kyle Schweigert",
+            "defensiveCoordinator": "Joe Konkol",
+            "specialTeamsCoach": "Alex Lang"
+        },
+        {
+            "teamName": "University of Wisconsin-La Crosse",
+            "headCoach": "Matt Janus",
+            "offensiveCoordinator": "Ben McAvoy",
+            "defensiveCoordinator": "Rob Rasch",
+            "specialTeamsCoach": "Dan Larson"
+        }
+    ]
+},
+{
+    "name": "New MIAC Football Teams 2024",
+    "startingYear": 2024,
+    "startingMessage": "Welcome to the newly expanded MIAC for the 2024 football season!",
+    "adjustHsGradYears": true,
+    "conferences": [
+        {
+            "conferenceName": "Minnesota Intercollegiate Athletic Conference (MIAC)",
+            "teams": [
+                {
+                    "teamName": "Bethel University",
+                    "location": "Arden Hills, MN",
+                    "stadium": "Royal Stadium",
+                    "headCoach": "Steve Johnson",
+                    "conferenceTitles": 4
+                },
+                {
+                    "teamName": "Saint John's University",
+                    "location": "Collegeville, MN",
+                    "stadium": "Clemens Stadium",
+                    "headCoach": "Gary Fasching",
+                    "conferenceTitles": 34
+                },
+                {
+                    "teamName": "Concordia College",
+                    "location": "Moorhead, MN",
+                    "stadium": "Jake Christiansen Stadium",
+                    "headCoach": "Terry Horan",
+                    "conferenceTitles": 18
+                },
+                {
+                    "teamName": "Gustavus Adolphus College",
+                    "location": "St. Peter, MN",
+                    "stadium": "Hollingsworth Field",
+                    "headCoach": "Peter Haugen",
+                    "conferenceTitles": 22
+                },
+                {
+                    "teamName": "Hamline University",
+                    "location": "St. Paul, MN",
+                    "stadium": "Klas Field",
+                    "headCoach": "Chip Taylor",
+                    "conferenceTitles": 8
+                },
+                {
+                    "teamName": "Macalester College",
+                    "location": "St. Paul, MN",
+                    "stadium": "Macalester Stadium",
+                    "headCoach": "Phil Nicolaides",
+                    "conferenceTitles": 4
+                },
+                {
+                    "teamName": "St. Olaf College",
+                    "location": "Northfield, MN",
+                    "stadium": "Klein Field at Manitou",
+                    "headCoach": "James Kilian",
+                    "conferenceTitles": 8
+                },
+                {
+                    "teamName": "Augsburg University",
+                    "location": "Minneapolis, MN",
+                    "stadium": "Edor Nelson Field",
+                    "headCoach": "Derrin Lamker",
+                    "conferenceTitles": 4
+                },
+                {
+                    "teamName": "Carleton College",
+                    "location": "Northfield, MN",
+                    "stadium": "Laird Stadium",
+                    "headCoach": "Tom Journell",
+                    "conferenceTitles": 11
+                },
+                {
+                    "teamName": "Saint Mary's University of Minnesota",
+                    "location": "Winona, MN",
+                    "stadium": "Cardinal Stadium",
+                    "headCoach": "Terry Horan",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "University of Northwestern-St. Paul",
+                    "location": "St. Paul, MN",
+                    "stadium": "Reynolds Field",
+                    "headCoach": "Matt Moore",
+                    "conferenceTitles": 2
+                },
+                {
+                    "teamName": "Martin Luther College",
+                    "location": "New Ulm, MN",
+                    "stadium": "Big Cat Stadium",
+                    "headCoach": "Mark Stein",
+                    "conferenceTitles": 5
+                },
+                {
+                    "teamName": "Crown College",
+                    "location": "St. Bonifacius, MN",
+                    "stadium": "Old National Bank Stadium",
+                    "headCoach": "John Auer",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "University of Minnesota Morris",
+                    "location": "Morris, MN",
+                    "stadium": "Big Cat Stadium",
+                    "headCoach": "Marty Hoffman",
+                    "conferenceTitles": 2
+                },
+                {
+                    "teamName": "St. Scholastica",
+                    "location": "Duluth, MN",
+                    "stadium": "Public Schools Stadium",
+                    "headCoach": "Mike Heffernan",
+                    "conferenceTitles": 8
+                },
+                {
+                    "teamName": "Northwestern College (IA)",
+                    "location": "Orange City, IA",
+                    "stadium": "DeValois Stadium",
+                    "headCoach": "Matt McCarty",
+                    "conferenceTitles": 15
+                }
+            ]
+        }
+    ],
+    "bowlGames": [
+        {
+            "bowlName": "Stagg Bowl",
+            "location": "Salem, VA",
+            "teams": [
+                {
+                    "team1": "Bethel University",
+                    "team2": "Saint John's University"
+                }
+            ],
+            "winner": "Saint John's University"
+        }
+    ],
+    "coachingStaffs": [
+        {
+            "teamName": "Saint John's University",
+            "headCoach": "Gary Fasching",
+            "offensiveCoordinator": "Kurt Ramler",
+            "defensiveCoordinator": "Jerry Haugen",
+            "specialTeamsCoach": "Chad Johnson"
+        },
+        {
+            "teamName": "Bethel University",
+            "headCoach": "Steve Johnson",
+            "offensiveCoordinator": "Chris Garrett",
+            "defensiveCoordinator": "John Davis",
+            "specialTeamsCoach": "Jim Bender"
+        },
+        {
+            "teamName": "Concordia College",
+            "headCoach": "Terry Horan",
+            "offensiveCoordinator": "Jon Mahto",
+            "defensiveCoordinator": "Eric Issendorf",
+            "specialTeamsCoach": "Tim Johnson"
+        }
+    ]
+}
+
+],
+{
+    "name": "New NESCAC Football Teams 2024",
+    "startingYear": 2024,
+    "startingMessage": "The newly expanded NESCAC is ready for the 2024 season with 16 teams!",
+    "adjustHsGradYears": true,
+    "conferences": [
+        {
+            "conferenceName": "New England Small College Athletic Conference (NESCAC)",
+            "teams": [
+                {
+                    "teamName": "Amherst College",
+                    "location": "Amherst, MA",
+                    "stadium": "Pratt Field",
+                    "headCoach": "E.J. Mills",
+                    "conferenceTitles": 9
+                },
+                {
+                    "teamName": "Bowdoin College",
+                    "location": "Brunswick, ME",
+                    "stadium": "Whittier Field",
+                    "headCoach": "B.J. Hammer",
+                    "conferenceTitles": 4
+                },
+                {
+                    "teamName": "Bates College",
+                    "location": "Lewiston, ME",
+                    "stadium": "Garcelon Field",
+                    "headCoach": "Malik Hall",
+                    "conferenceTitles": 1
+                },
+                {
+                    "teamName": "Colby College",
+                    "location": "Waterville, ME",
+                    "stadium": "Seaverns Field at Harold Alfond Stadium",
+                    "headCoach": "Jack Cosgrove",
+                    "conferenceTitles": 4
+                },
+                {
+                    "teamName": "Hamilton College",
+                    "location": "Clinton, NY",
+                    "stadium": "Steuben Field",
+                    "headCoach": "Dave Murray",
+                    "conferenceTitles": 1
+                },
+                {
+                    "teamName": "Middlebury College",
+                    "location": "Middlebury, VT",
+                    "stadium": "Alfred Thompson Memorial Field",
+                    "headCoach": "Bob Ritter",
+                    "conferenceTitles": 7
+                },
+                {
+                    "teamName": "Trinity College",
+                    "location": "Hartford, CT",
+                    "stadium": "Jessee/Miller Field",
+                    "headCoach": "Jeff Devanney",
+                    "conferenceTitles": 12
+                },
+                {
+                    "teamName": "Tufts University",
+                    "location": "Medford, MA",
+                    "stadium": "Ellis Oval",
+                    "headCoach": "Jay Civetti",
+                    "conferenceTitles": 7
+                },
+                {
+                    "teamName": "Wesleyan University",
+                    "location": "Middletown, CT",
+                    "stadium": "Andrus Field",
+                    "headCoach": "Dan DiCenzo",
+                    "conferenceTitles": 6
+                },
+                {
+                    "teamName": "Williams College",
+                    "location": "Williamstown, MA",
+                    "stadium": "Weston Field",
+                    "headCoach": "Mark Raymond",
+                    "conferenceTitles": 17
+                },
+                {
+                    "teamName": "University of New England",
+                    "location": "Biddeford, ME",
+                    "stadium": "Blue Storm Stadium",
+                    "headCoach": "Mike Lichten",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Salve Regina University",
+                    "location": "Newport, RI",
+                    "stadium": "Gaudet Field",
+                    "headCoach": "Kevin Gilmartin",
+                    "conferenceTitles": 4
+                },
+                {
+                    "teamName": "Curry College",
+                    "location": "Milton, MA",
+                    "stadium": "Walter M. Katz Field",
+                    "headCoach": "Skip Bandini",
+                    "conferenceTitles": 7
+                },
+                {
+                    "teamName": "Endicott College",
+                    "location": "Beverly, MA",
+                    "stadium": "Hempstead Stadium",
+                    "headCoach": "Paul McGonagle",
+                    "conferenceTitles": 5
+                },
+                {
+                    "teamName": "Western New England University",
+                    "location": "Springfield, MA",
+                    "stadium": "Golden Bear Stadium",
+                    "headCoach": "Jason Lebeau",
+                    "conferenceTitles": 7
+                },
+                {
+                    "teamName": "Massachusetts Maritime Academy",
+                    "location": "Buzzards Bay, MA",
+                    "stadium": "Clean Harbors Stadium",
+                    "headCoach": "Jeremy Cameron",
+                    "conferenceTitles": 1
+                }
+            ]
+        }
+    ],
+    "bowlGames": [
+        {
+            "bowlName": "New England Bowl",
+            "location": "New London, CT",
+            "teams": [
+                {
+                    "team1": "Trinity College",
+                    "team2": "Wesleyan University"
+                }
+            ],
+            "winner": "Trinity College"
+        }
+    ],
+    "coachingStaffs": [
+        {
+            "teamName": "Amherst College",
+            "headCoach": "E.J. Mills",
+            "offensiveCoordinator": "Dan Wolfe",
+            "defensiveCoordinator": "Bill Durkin",
+            "specialTeamsCoach": "Drew Hall"
+        },
+        {
+            "teamName": "Trinity College",
+            "headCoach": "Jeff Devanney",
+            "offensiveCoordinator": "Tom Hagan",
+            "defensiveCoordinator": "Bob Donahue",
+            "specialTeamsCoach": "Dan Goldberg"
+        },
+        {
+            "teamName": "Wesleyan University",
+            "headCoach": "Dan DiCenzo",
+            "offensiveCoordinator": "Sean Stanley",
+            "defensiveCoordinator": "Michael Whalen",
+            "specialTeamsCoach": "Chris Medaglia"
+        }
+    ]
+}
+
+],
+{
+    "name": "New SAA Football Teams 2024",
+    "startingYear": 2024,
+    "startingMessage": "The newly expanded Southern Athletic Association is ready for the 2024 season with 16 teams!",
+    "adjustHsGradYears": true,
+    "conferences": [
+        {
+            "conferenceName": "Southern Athletic Association (SAA)",
+            "teams": [
+                {
+                    "teamName": "Berry College",
+                    "location": "Mount Berry, GA",
+                    "stadium": "Valhalla Stadium",
+                    "headCoach": "Tony Kunczewski",
+                    "conferenceTitles": 6
+                },
+                {
+                    "teamName": "Birmingham-Southern College",
+                    "location": "Birmingham, AL",
+                    "stadium": "General Krulak Stadium",
+                    "headCoach": "Anthony Webb",
+                    "conferenceTitles": 2
+                },
+                {
+                    "teamName": "Centre College",
+                    "location": "Danville, KY",
+                    "stadium": "Farris Stadium",
+                    "headCoach": "Andy Frye",
+                    "conferenceTitles": 14
+                },
+                {
+                    "teamName": "Hendrix College",
+                    "location": "Conway, AR",
+                    "stadium": "Young-Wise Memorial Stadium",
+                    "headCoach": "Buck Buchanan",
+                    "conferenceTitles": 1
+                },
+                {
+                    "teamName": "Millsaps College",
+                    "location": "Jackson, MS",
+                    "stadium": "Harper Davis Field",
+                    "headCoach": "Isaac Carter",
+                    "conferenceTitles": 9
+                },
+                {
+                    "teamName": "Rhodes College",
+                    "location": "Memphis, TN",
+                    "stadium": "Crain Field",
+                    "headCoach": "Rich Duncan",
+                    "conferenceTitles": 13
+                },
+                {
+                    "teamName": "Sewanee: The University of the South",
+                    "location": "Sewanee, TN",
+                    "stadium": "Harris Stadium",
+                    "headCoach": "Travis Rundle",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Trinity University",
+                    "location": "San Antonio, TX",
+                    "stadium": "Trinity University Stadium",
+                    "headCoach": "Jerheme Urban",
+                    "conferenceTitles": 22
+                },
+                {
+                    "teamName": "Austin College",
+                    "location": "Sherman, TX",
+                    "stadium": "Jerry Apple Stadium",
+                    "headCoach": "Loren Dawson",
+                    "conferenceTitles": 3
+                },
+                {
+                    "teamName": "Southwestern University",
+                    "location": "Georgetown, TX",
+                    "stadium": "Birkelbach Field",
+                    "headCoach": "Joe Austin",
+                    "conferenceTitles": 1
+                },
+                {
+                    "teamName": "East Texas Baptist University",
+                    "location": "Marshall, TX",
+                    "stadium": "Ornelas Stadium",
+                    "headCoach": "Brian Mayper",
+                    "conferenceTitles": 1
+                },
+                {
+                    "teamName": "Louisiana College",
+                    "location": "Pineville, LA",
+                    "stadium": "Wildcat Stadium",
+                    "headCoach": "Andrew Maddox",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Hardin-Simmons University",
+                    "location": "Abilene, TX",
+                    "stadium": "Shelton Stadium",
+                    "headCoach": "Jesse Burleson",
+                    "conferenceTitles": 12
+                },
+                {
+                    "teamName": "Mary Hardin-Baylor University",
+                    "location": "Belton, TX",
+                    "stadium": "Crusader Stadium",
+                    "headCoach": "Larry Harmon",
+                    "conferenceTitles": 17
+                },
+                {
+                    "teamName": "Howard Payne University",
+                    "location": "Brownwood, TX",
+                    "stadium": "Gordon Wood Stadium",
+                    "headCoach": "Braxton Harris",
+                    "conferenceTitles": 3
+                },
+                {
+                    "teamName": "McMurry University",
+                    "location": "Abilene, TX",
+                    "stadium": "Wilford Moore Stadium",
+                    "headCoach": "Jordan Neal",
+                    "conferenceTitles": 1
+                }
+            ]
+        }
+    ],
+    "bowlGames": [
+        {
+            "bowlName": "Lone Star Bowl",
+            "location": "San Antonio, TX",
+            "teams": [
+                {
+                    "team1": "Trinity University",
+                    "team2": "Berry College"
+                }
+            ],
+            "winner": "Trinity University"
+        }
+    ],
+    "coachingStaffs": [
+        {
+            "teamName": "Berry College",
+            "headCoach": "Tony Kunczewski",
+            "offensiveCoordinator": "Zach Morrison",
+            "defensiveCoordinator": "Trevor Hathorn",
+            "specialTeamsCoach": "Chris Byrd"
+        },
+        {
+            "teamName": "Trinity University",
+            "headCoach": "Jerheme Urban",
+            "offensiveCoordinator": "Matt Van Dyke",
+            "defensiveCoordinator": "Brandon Middleton",
+            "specialTeamsCoach": "Ryan McCarthy"
+        },
+        {
+            "teamName": "Birmingham-Southern College",
+            "headCoach": "Anthony Webb",
+            "offensiveCoordinator": "Gary Banks",
+            "defensiveCoordinator": "John Glass",
+            "specialTeamsCoach": "Chris Johnson"
+        }
+    ]
+}
+
+],
+{
+    "name": "New ODAC Football Teams 2024",
+    "startingYear": 2024,
+    "startingMessage": "Welcome to the newly expanded ODAC for the 2024 football season with 16 teams!",
+    "adjustHsGradYears": true,
+    "conferences": [
+        {
+            "conferenceName": "Old Dominion Athletic Conference (ODAC)",
+            "teams": [
+                {
+                    "teamName": "Bridgewater College",
+                    "location": "Bridgewater, VA",
+                    "stadium": "Jopson Field",
+                    "headCoach": "Michael Clark",
+                    "conferenceTitles": 11
+                },
+                {
+                    "teamName": "Guilford College",
+                    "location": "Greensboro, NC",
+                    "stadium": "Armfield Athletic Center",
+                    "headCoach": "Chris McHugh",
+                    "conferenceTitles": 5
+                },
+                {
+                    "teamName": "Hampden-Sydney College",
+                    "location": "Hampden Sydney, VA",
+                    "stadium": "Gates Field",
+                    "headCoach": "Lonnie Harrell",
+                    "conferenceTitles": 19
+                },
+                {
+                    "teamName": "Emory & Henry College",
+                    "location": "Emory, VA",
+                    "stadium": "Fred Selfe Stadium",
+                    "headCoach": "Kenny Yarbrough",
+                    "conferenceTitles": 16
+                },
+                {
+                    "teamName": "Shenandoah University",
+                    "location": "Winchester, VA",
+                    "stadium": "Shenandoah University Stadium",
+                    "headCoach": "Scott Yoder",
+                    "conferenceTitles": 4
+                },
+                {
+                    "teamName": "Washington and Lee University",
+                    "location": "Lexington, VA",
+                    "stadium": "Wilson Field",
+                    "headCoach": "Scott Abell",
+                    "conferenceTitles": 14
+                },
+                {
+                    "teamName": "Randolph-Macon College",
+                    "location": "Ashland, VA",
+                    "stadium": "Day Field",
+                    "headCoach": "Pedro Arruza",
+                    "conferenceTitles": 16
+                },
+                {
+                    "teamName": "Virginia Wesleyan University",
+                    "location": "Virginia Beach, VA",
+                    "stadium": "Birdsong Field",
+                    "headCoach": "Jason E. Rhoades",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Marymount University",
+                    "location": "Arlington, VA",
+                    "stadium": "Loudoun County High School",
+                    "headCoach": "Dave Kearney",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Catholic University of America",
+                    "location": "Washington, D.C.",
+                    "stadium": "Cardinal Stadium",
+                    "headCoach": "Mike Gutelius",
+                    "conferenceTitles": 3
+                },
+                {
+                    "teamName": "Frostburg State University",
+                    "location": "Frostburg, MD",
+                    "stadium": "Bobcat Stadium",
+                    "headCoach": "DeLane Fitzgerald",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Averett University",
+                    "location": "Danville, VA",
+                    "stadium": "Frank R. Campbell Stadium",
+                    "headCoach": "Patrick McGee",
+                    "conferenceTitles": 1
+                },
+                {
+                    "teamName": "William Peace University",
+                    "location": "Raleigh, NC",
+                    "stadium": "Lambeth Field",
+                    "headCoach": "Mike D'Amato",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Brevard College",
+                    "location": "Brevard, NC",
+                    "stadium": "Ives-Lemel Family Field",
+                    "headCoach": "Paul Gilmartin",
+                    "conferenceTitles": 0
+                },
+                {
+                    "teamName": "Southern Virginia University",
+                    "location": "Buena Vista, VA",
+                    "stadium": "The Fields",
+                    "headCoach": "Devin West",
+                    "conferenceTitles": 1
+                },
+                {
+                    "teamName": "Chowan University",
+                    "location": "Murfreesboro, NC",
+                    "stadium": "Graham Field",
+                    "headCoach": "Mark Hall",
+                    "conferenceTitles": 0
+                }
+            ]
+        }
+    ],
+    "bowlGames": [
+        {
+            "bowlName": "Old Dominion Bowl",
+            "location": "Richmond, VA",
+            "teams": [
+                {
+                    "team1": "Bridgewater College",
+                    "team2": "Randolph-Macon College"
+                }
+            ],
+            "winner": "Randolph-Macon College"
+        }
+    ],
+    "coachingStaffs": [
+        {
+            "teamName": "Bridgewater College",
+            "headCoach": "Michael Clark",
+            "offensiveCoordinator": "Brian Stinespring",
+            "defensiveCoordinator": "Mike Brown",
+            "specialTeamsCoach": "Jason Kauffman"
+        },
+        {
+            "teamName": "Randolph-Macon College",
+            "headCoach": "Pedro Arruza",
+            "offensiveCoordinator": "John Bowers",
+            "defensiveCoordinator": "Kurt Stein",
+            "specialTeamsCoach": "Anthony DeMarco"
+        },
+        {
+            "teamName": "Hampden-Sydney College",
+            "headCoach": "Lonnie Harrell",
+            "offensiveCoordinator": "Chris Cooper",
+            "defensiveCoordinator": "Kendall D. Jones",
+            "specialTeamsCoach": "Greg Thomas"
+        }
+    ]
+}
+
+]
